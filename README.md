@@ -32,7 +32,7 @@ Validate True/False
 Validate Date in Format (YYYY-MM-DD)
 
 ### time
-Validate Time in Format (HH-MM-SS)
+Validate Time in Format (HH:MM:SS)
 
 ## Methods
 
