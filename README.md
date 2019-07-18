@@ -28,6 +28,12 @@ Validate URL
 ### check 
 Validate True/False
 
+### date
+Validate Date in Format (YYYY-MM-DD)
+
+### time
+Validate Time in Format (HH-MM-SS)
+
 ## Methods
 
 ### addValidation (divId, regex)
